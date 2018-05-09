@@ -1,0 +1,61 @@
+body{
+	font-family: 'Gugi', cursive;
+	width: 1000px;
+
+	background-image: url('../images/honeycomb.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+#imageBox{
+	width: 80%;
+	padding-left: 35%;
+	padding-bottom: 5%;
+	text-align: center;
+	float: none;
+}
+
+.navButton{
+	width: 10%;
+	float: left;
+}
+
+#picWindow{
+	width: 55%;
+	float: left;
+}
+
+.arrowButtons{
+	width: 100%;
+	margin-top: 10%;
+}
+
+.arrowButtons:hover{
+	width: 50%;
+	margin-top: 10%;
+	opacity: 0.75;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+	font-size: 50pt;
+	padding-left: 35%;
+
+}
+
+h2 {
+	width: 60%;
+	margin-left:auto;
+	margin-right:auto;
+	font-size: 25px;
+	color: white;
+	padding-left: 35%;
+	text-align: center;
+
+}
+
+#rsPic {
+	width: 80px;
+	float: right;
+}
